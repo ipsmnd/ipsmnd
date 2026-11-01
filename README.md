@@ -8,7 +8,7 @@
 
 *Turning ideas into thoughtful digital experiences.*
 
-[Portfolio](https://pabitraswain.in) Â· [Facebook](https://www.facebook.com/PABITRASWAIN.IN) Â· [Instagram](https://www.instagram.com/PABITRASWAIN.IN)
+[Portfolio](https://pabitraswain.in) · [Facebook](https://www.facebook.com/PABITRASWAIN.IN) · [Instagram](https://www.instagram.com/PABITRASWAIN.IN)
 
 </div>
 
