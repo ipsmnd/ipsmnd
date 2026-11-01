@@ -4,7 +4,7 @@
 
 <br />
 
-### Software Engineer Â· Full-Stack Developer Â· Creative Technologist
+### Software Engineer · Full-Stack Developer · Creative Technologist
 
 *Turning ideas into thoughtful digital experiences.*
 
@@ -17,25 +17,24 @@
 
 My **About **, 
 
-<img src="pabitra-about.svg" alt="Pabitra Swain â€” Software Engineer, Full-Stack Developer, Creative Technologist" width="100%" />
+<img src="pabitra-about.svg" alt="Pabitra Swain | Software Engineer, Full-Stack Developer, Creative Technologist" width="100%" />
 
 <br />## Experience
 
-**Web Application Developer â€” Atreya Associates** Â· 2022â€“Present  
+**Web Application Developer | Atreya Associates** · 2022 |Present  
 Resume-listed work includes web application development, API integration, responsive interfaces, and performance optimization.
 
-**UI/UX Designer & Web Developer â€” Ad Your Dream Pvt. Ltd.** Â· 2021â€“2022  
+**UI/UX Designer & Web Developer Ad Your Dream Pvt. Ltd.** · 2021 | 2022  
 Resume-listed work includes responsive website design and modern UI implementation.
 
-**Freelance Front-End Developer** Â· 2020â€“Present  
+**Freelance Front-End Developer** · 2020 | Present  
 Resume-listed work includes custom websites and WordPress solutions.
 
 ## Education
 
 **Bachelor of Computer Applications (BCA)**  
-Presidency College, Berhampur Â· 2016â€“2019
-
-> Additional specialization, CGPA, and competition achievements are intentionally omitted until supporting evidence is verified.
+Presidency College, Berhampur · 2016 | 2019
+Additional specialization, CGPA, and competition achievements are intentionally omitted until supporting evidence is verified.
 
 ## Skills
 
@@ -78,5 +77,5 @@ Once your username is confirmed, a genuine contribution graph can be added using
 
 <div align="center">
   <img src="pabitra-footer.svg" alt="Code, create, keep learning â€” Pabitra Swain" width="100%" />
-  <sub>Designed with care Â· Built to keep evolving</sub>
+  <sub>Designed with care · Built to keep evolving</sub>
 </div>
