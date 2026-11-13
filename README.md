@@ -68,8 +68,8 @@ Once your username is confirmed, a genuine contribution graph can be added using
 ## Find Me Online
 
 - **Website:** [pabitraswain.in](https://pabitraswain.in)
-- **Facebook:** [PABITRASWAIN.IN](https://www.facebook.com/PABITRASWAIN.IN)
-- **Instagram:** [@PABITRASWAIN.IN](https://www.instagram.com/PABITRASWAIN.IN)
+- **Facebook:** [pabitraswain.in](https://www.facebook.com/PABITRASWAIN.IN)
+- **Instagram:** [pabitraswain.in](https://www.instagram.com/PABITRASWAIN.IN)
 
 > Professional profiles such as GitHub, LinkedIn, LeetCode, and HackerRank can be added after their exact URLs are confirmed.
 
