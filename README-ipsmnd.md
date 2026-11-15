@@ -19,7 +19,7 @@ Building useful digital experiences through technology, creativity, and continuo
 
 ## 👋 About Me
 
-<img src="mnd-code-about-me.svg" width="100%" alt="About Pabitra Swain" />
+<img src="mnd-code-about-us.svg" width="100%" alt="About Pabitra Swain" />
 
 I'm **Pabitra Swain**, a developer interested in building responsive websites, practical web applications, and creative digital products. I enjoy turning ideas into clean, accessible, and engaging user experiences.
 
