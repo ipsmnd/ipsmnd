@@ -32,7 +32,7 @@ I’m building my own identity through **MND CODE**. Coding is my passion, music
 
 ## 🧰 Skills & Technologies
 
-<img src="./assets/skills.png" width="100%" alt="Pabitra Swain skills and technologies" />
+<img src="mnd-code-logo-tech-stack-animated.svg" width="100%" alt="Pabitra Swain skills and technologies" />
 
 **Core skills**
 
