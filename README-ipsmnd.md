@@ -2,12 +2,6 @@
 
 <img src="mnd-code-animated-with-portrait-preview.png" width="100%" alt="Pabitra Swain — Software Engineer, Full-Stack Developer, Creative Technologist" />
 
-### Software Engineer · Full-Stack Developer · Creative Technologist
-
-**Code · Design · Build · Improve**
-
-Building useful digital experiences through technology, creativity, and continuous learning.
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-MND%20CODE-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://mndweb.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-ipsmnd-181717?style=for-the-badge&logo=github)](https://github.com/ipsmnd)
 [![Facebook](https://img.shields.io/badge/Facebook-mndcoding-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mndcoding)
@@ -15,32 +9,8 @@ Building useful digital experiences through technology, creativity, and continuo
 
 </div>
 
----
-
-## 👋 About Me
-
 <img src="mnd-code-about-us.svg" width="100%" alt="About Pabitra Swain" />
-
-I'm **Pabitra Swain**, a developer interested in building responsive websites, practical web applications, and creative digital products. I enjoy turning ideas into clean, accessible, and engaging user experiences.
-
-I’m building my own identity through **MND CODE**. Coding is my passion, music is my escape, and learning new technology keeps me moving forward.
-
-- 💻 Interested in **web development, UI/UX, and creative technology**
-- 🚀 Focused on building practical projects and improving through hands-on work
-- 🎨 Enjoy designing polished, responsive interfaces and smooth interactions
-- 🤝 Value problem-solving, collaboration, and continuous learning
-
-## 🧰 Skills & Technologies
-
 <img src="mnd-code-logo-tech-stack-animated.svg" width="100%" alt="Pabitra Swain skills and technologies" />
-
-**Core skills**
-
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, jQuery
-- **Web & Integration:** Responsive Web Design, REST API Integration, AJAX
-- **CMS:** WordPress
-- **Design:** UI/UX Design
-- **Professional:** Problem Solving, Team Collaboration
 
 ## 🚀 Selected Projects
 
