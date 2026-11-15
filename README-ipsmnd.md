@@ -3,7 +3,7 @@
 <img src="mnd-code-animated-with-portrait-preview.png" width="100%" alt="Pabitra Swain — Software Engineer, Full-Stack Developer, Creative Technologist" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-MND%20CODE-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://mndweb.vercel.app/)
-[![Instagram](https://img.shields.io/badge/instagram-mndcodeding-000000?style=for-the-badge&logo=x&logoColor=white)](https://instagram.com/mndcodeding)
+[![Instagram](https://www.instagram.com/mnd.coding?obrf=NGNoaWt1cHpjdjZs)
 [![GitHub](https://img.shields.io/badge/GitHub-ipsmnd-181717?style=for-the-badge&logo=github)](https://github.com/ipsmnd)
 [![Facebook](https://img.shields.io/badge/Facebook-mndcoding-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mndcoding)
 [![X](https://img.shields.io/badge/X-mndcodeding-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mndcodeding)
