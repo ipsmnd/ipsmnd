@@ -11,30 +11,7 @@
 
 <img src="mnd-code-about-us.svg" width="100%" alt="About Pabitra Swain" />
 <img src="mnd-code-logo-tech-stack-animated.svg" width="100%" alt="Pabitra Swain skills and technologies" />
-
-## 🚀 Selected Projects
-
-| Project | Description | Live |
-|---|---|---|
-| **MND CODE** | Web development and learning platform | [Open website](https://mndweb.vercel.app/) |
-| **MND Music** | Music player web application | [Open website](https://mnd-music-player.vercel.app/) |
-| **MND Coding NCC** | NCC-focused web project | [Open website](https://mnd-coding-ncc.vercel.app/) |
-| **Girls Hostel** | Girls hostel website project | [Open website](https://girls-hostel-gray.vercel.app/) |
-| **Nutrino** | Health and fitness information platform | [Open website](https://nutrino-delta.vercel.app/) |
-| **TechFlix OTT** | OTT-style streaming platform project | [Open website](https://otttechflix.vercel.app/) |
-
-*Project descriptions are concise summaries; visit each live site to explore its current features.*
-
-## 🏆 Achievements
-
-- **Flipkart GRiD 7.0** — National Semi-Finalist
-- **Myntra WeForShe HackerRamp 2025** — Top 100 teams
-
-## 🎓 Education
-
-**Bachelor of Computer Applications (BCA)**  
-Artificial Intelligence and Machine Learning  
-**CGPA:** 9.10
+<img src="mnd-code-personal-profile-animated.svg" width="100%" alt="Pabitra Swain my projects and Live in website" />
 
 ## 📸 A Few More Photos
 
