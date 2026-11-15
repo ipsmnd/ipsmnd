@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Pabitra Swain — Software Engineer, Full-Stack Developer, Creative Technologist" />
+<img src="mnd-code-animated-with-portrait-preview.png" width="100%" alt="Pabitra Swain — Software Engineer, Full-Stack Developer, Creative Technologist" />
 
 ### Software Engineer · Full-Stack Developer · Creative Technologist
 
